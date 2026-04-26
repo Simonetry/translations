@@ -36,10 +36,6 @@ Small tip - the English translations are the default ones that are used across t
 
 - [PluralSpace Website](https://pluralspace.app)
 
-## License
-
-Translations are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Original code is [MIT](./LICENSE).
-
 ## Questions?
 
 - Open an [issue](https://github.com/pluralspace/translations/issues)
