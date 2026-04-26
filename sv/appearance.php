@@ -1,34 +1,34 @@
 <?php
 
 return [
-    'title' => 'Appearance',
-    'theme' => 'Theme',
+    'title' => 'Utseende',
+    'theme' => 'Tema',
 
     // Theme labels
     'themes' => [
         'light' => [
-            'label' => 'Light',
-            'description' => 'Clean and bright',
+            'label' => 'Ljust',
+            'description' => 'Rent och ljust',
         ],
         'dark' => [
-            'label' => 'Dark',
-            'description' => 'Deep purple darkness',
+            'label' => 'Mörkt',
+            'description' => 'Djupt lila mörker',
         ],
         'dim' => [
-            'label' => 'Dim',
-            'description' => 'Softer dark tones (WIP)',
+            'label' => 'Dimmigt',
+            'description' => 'Mjukare mörka toner (WIP)',
         ],
         'paper' => [
-            'label' => 'Paper',
-            'description' => 'Warm parchment feel (WIP)',
+            'label' => 'Papper',
+            'description' => 'Varm pergamentkänsla (WIP)',
         ],
         'system' => [
             'label' => 'System',
-            'description' => 'Follows your device',
+            'description' => 'Följer din enhet',
         ],
     ],
 
-    'light' => 'Light',
-    'dark' => 'Dark',
+    'light' => 'Ljust',
+    'dark' => 'Mörkt',
     'system' => 'System',
 ];
