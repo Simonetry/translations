@@ -1,7 +1,6 @@
 <?php
 
 return [
-    // Main Items
     'title' => 'Help Center',
     'description' => 'Guides and tutorials on how to use PluralSpace.',
     'help_center' => 'Help Center',

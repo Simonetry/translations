@@ -4,7 +4,7 @@ return [
     'title' => 'Appearance',
     'theme' => 'Theme',
 
-    // Theme labels + descriptions
+    // Theme labels
     'themes' => [
         'light' => [
             'label' => 'Light',
