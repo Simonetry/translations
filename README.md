@@ -28,10 +28,10 @@ Small tip - the English translations are the default ones that are used across t
 
 ## Languages
 
-| Language | Code | Status | Translator(s) |
-| --- | --- | --- | --- | --- |
-| English | `en` | ✅ Complete | Drexel |
-| (Add more as you join!) | | | 
+Language | Code | Status | Translator(s)
+--- | --- | --- | --- | ---
+English | `en` | ✅ Complete | Drexel
+(Add more as you join!) | | |
 
 ## Resources
 
