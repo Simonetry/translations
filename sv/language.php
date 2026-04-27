@@ -1,5 +1,5 @@
 <?php
 
-return [
-    'language' => 'Språk',
+return[
+  "language" => "Språk"
 ];

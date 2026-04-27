@@ -1,7 +1,7 @@
 <?php
 
 return[
-  "agree_to_the" => "I agree to the",
+  "agree_to_the" => "Ik ga akkoord met de",
   "are_you_a_system" => "Are you a system?",
   "continue_agreement_prefix" => "By continuing, you agree to our",
   "continue_agreement_privacy" => "Privacy Policy",
@@ -11,7 +11,7 @@ return[
   "create_account" => "Create account",
   "create_account_and_join" => "Create account & join",
   "email_password_reset_link" => "Email password reset link",
-  "failed" => "Dessa uppgifter stämmer inte överens med våra register.",
+  "failed" => "Deze inloggegevens komen niet overeen met onze gegevens.",
   "forgot_heading" => "Forgot password",
   "forgot_subheading" => "Enter your email to receive a password reset link",
   "forgot_your_password" => "Forgot your password?",
@@ -30,7 +30,7 @@ return[
   "no_account_question" => "Don't have an account?",
   "not_a_system_hint" => "If you're not a system, you can create your account and wait for a friend to invite you to theirs.",
   "or_return_to" => "Or, return to",
-  "password" => "Det angivna lösenordet är felaktigt.",
+  "password" => "Het opgegeven wachtwoord is onjuist.",
   "please_verify_email" => "Please verify your email address by clicking on the link we just emailed to you.",
   "register_heading" => "Create an account",
   "register_meta_description" => "Create your free PluralSpace™ account. A cozy home for plural systems, DID, and OSDD — track fronting, journal, and chat together.",
@@ -48,7 +48,7 @@ return[
   "split_quote" => "\"A cozy home for your whole system.\"",
   "split_tagline" => "Track fronting, manage member profiles, and journal together — privately and on your own terms.",
   "terms_of_service" => "Terms of Service",
-  "throttle" => "För många inloggningsförsök. Vänligen försök igen om :seconds sekunder.",
+  "throttle" => "Te veel inlogpogingen. Probeer het opnieuw over :seconds seconden.",
   "verification_link_sent" => "A new verification link has been sent to the email address you provided during registration.",
   "verify_email_title" => "Email verification"
 ];

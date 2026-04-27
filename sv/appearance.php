@@ -1,34 +1,31 @@
 <?php
 
-return [
-    'title' => 'Utseende',
-    'theme' => 'Tema',
-
-    // Theme labels
-    'themes' => [
-        'light' => [
-            'label' => 'Ljust',
-            'description' => 'Rent och ljust',
-        ],
-        'dark' => [
-            'label' => 'Mörkt',
-            'description' => 'Djupt lila mörker',
-        ],
-        'dim' => [
-            'label' => 'Dimmigt',
-            'description' => 'Mjukare mörka toner (WIP)',
-        ],
-        'paper' => [
-            'label' => 'Papper',
-            'description' => 'Varm pergamentkänsla (WIP)',
-        ],
-        'system' => [
-            'label' => 'System',
-            'description' => 'Följer din enhet',
-        ],
+return[
+  "dark" => "Mörk",
+  "light" => "Ljus",
+  "system" => "System",
+  "theme" => "Tema",
+  "themes" => [
+    "dark" => [
+      "description" => "Djup lila mörker",
+      "label" => "Mörk"
     ],
-
-    'light' => 'Ljust',
-    'dark' => 'Mörkt',
-    'system' => 'System',
+    "dim" => [
+      "description" => "Mjukare mörka toner (WIP)",
+      "label" => "Dimmigt"
+    ],
+    "light" => [
+      "description" => "Rent och ljust",
+      "label" => "Ljus"
+    ],
+    "paper" => [
+      "description" => "Varm pergamentkänsla (WIP)",
+      "label" => "Papper"
+    ],
+    "system" => [
+      "description" => "Följer din enhet",
+      "label" => "System"
+    ]
+  ],
+  "title" => "Utseende"
 ];
