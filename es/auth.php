@@ -1,8 +1,8 @@
 <?php
 
 return[
-  "agree_to_the" => "I agree to the",
-  "are_you_a_system" => "Are you a system?",
+  "agree_to_the" => "Estoy de acuerdo con el",
+  "are_you_a_system" => "¿Es usted un sistema?",
   "continue_agreement_prefix" => "By continuing, you agree to our",
   "continue_agreement_privacy" => "Privacy Policy",
   "continue_agreement_terms" => "Terms",
@@ -11,7 +11,7 @@ return[
   "create_account" => "Create account",
   "create_account_and_join" => "Create account & join",
   "email_password_reset_link" => "Email password reset link",
-  "failed" => "These credentials do not match our records.",
+  "failed" => "Estas credenciales no coinciden con nuestros registros.",
   "forgot_heading" => "Forgot password",
   "forgot_subheading" => "Enter your email to receive a password reset link",
   "forgot_your_password" => "Forgot your password?",
@@ -48,7 +48,7 @@ return[
   "split_quote" => "\"A cozy home for your whole system.\"",
   "split_tagline" => "Track fronting, manage member profiles, and journal together — privately and on your own terms.",
   "terms_of_service" => "Terms of Service",
-  "throttle" => "Too many login attempts. Please try again in :seconds seconds.",
-  "verification_link_sent" => "A new verification link has been sent to the email address you provided during registration.",
-  "verify_email_title" => "Email verification"
+  "throttle" => "Tienes muchos intentos de inicio de sesión. Por favor inténtalo en :seconds segundos",
+  "verification_link_sent" => "Se ha enviado un nuevo enlace de verificación al correo electrónico que proporcionó durante el registro.",
+  "verify_email_title" => "Verificación de correo electrónico"
 ];

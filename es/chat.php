@@ -1,16 +1,16 @@
 <?php
 
 return[
-  "cannot_post" => "You don't have permission to post in this channel.",
-  "category_name" => "Category name",
-  "category_name_placeholder" => "e.g. General, Team, Projects...",
-  "channel_name" => "Channel name",
-  "channel_name_placeholder" => "e.g. General, Updates...",
-  "channel_topic" => "Channel topic",
-  "channel_topic_placeholder" => "What's this channel about?",
-  "channels" => "Channels",
-  "channels_in_system" => "Channels in your :system",
-  "chat_disabled" => "Chat is disabled for this system.",
+  "cannot_post" => "No tienes permisos para publicar en este canal.",
+  "category_name" => "Nombre de la categoría",
+  "category_name_placeholder" => "p. ej. General, Equipo, Proyectos...",
+  "channel_name" => "Nombre del canal",
+  "channel_name_placeholder" => "p. ej. General, Actualizaciones...",
+  "channel_topic" => "Tema del canal",
+  "channel_topic_placeholder" => "¿De qué trata este canal?",
+  "channels" => "Canales",
+  "channels_in_system" => "Canales en tu :system",
+  "chat_disabled" => "El chat está deshabilitado para este sistema.",
   "connecting" => "Connecting…",
   "create_category_button" => "Create Category",
   "create_category_subtitle" => "Give your category a name to organize channels.",
@@ -62,6 +62,6 @@ return[
   "select_channel_body" => "Choose a channel from the sidebar to start chatting.",
   "select_channel_heading" => "Select a channel",
   "send_first_message" => "Send the first message to start the conversation.",
-  "type_a_message" => "Type a message...",
-  "uncategorized" => "Uncategorized"
+  "type_a_message" => "Escriba un mensaje...",
+  "uncategorized" => "Sin categoría"
 ];

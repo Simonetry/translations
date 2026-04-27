@@ -1,8 +1,8 @@
 <?php
 
 return[
-  "authentication_code" => "Authentication code",
-  "authentication_code_description" => "Enter the authentication code provided by your authenticator application.",
+  "authentication_code" => "Código de autenticación",
+  "authentication_code_description" => "Introduzca el código de autenticación proporcionado por su aplicación de autenticación.",
   "confirm_identity_title" => "Confirm your identity",
   "confirm_password_description" => "This is a secure area of the application. Please confirm your password before continuing.",
   "copy_codes" => "Copy codes",
@@ -43,11 +43,11 @@ return[
   "setup_instructions" => "When two-factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's authenticator application.",
   "setup_load_error" => "Something went wrong loading the setup. Please refresh and try again.",
   "show_recovery_codes" => "Show recovery codes",
-  "use_authentication_code" => "login using an authentication code",
-  "use_recovery_code" => "login using a recovery code",
-  "verification_code" => "Verification code",
-  "verify" => "Verify",
-  "verify_identity_description" => "We've sent a 6-digit verification code to your email address.",
-  "verify_identity_title" => "Verify your identity",
-  "view_recovery_codes" => "View recovery codes"
+  "use_authentication_code" => "iniciar sesión usando un código de autenticación",
+  "use_recovery_code" => "inicia sesión usando un código de recuperación",
+  "verification_code" => "Código de verificación",
+  "verify" => "Verificar",
+  "verify_identity_description" => "Le hemos enviado un código de verificación de 6 dígitos a su correo electrónico.",
+  "verify_identity_title" => "Verifique su identidad",
+  "view_recovery_codes" => "Ver códigos de recuperación"
 ];

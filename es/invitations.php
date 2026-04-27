@@ -1,15 +1,15 @@
 <?php
 
 return[
-  "accept_been_invited" => "You've Been Invited",
-  "accept_button" => "Accept invitation",
-  "accept_button_short" => "Accept Invitation",
+  "accept_been_invited" => "Has Sido Invitado",
+  "accept_button" => "Aceptar invitación",
+  "accept_button_short" => "Aceptar invitación",
   "accept_message_label" => "Nota personal de :inviter",
   "accept_subtitle" => ":inviter te ha invitado a unirte a :system como :role.",
-  "accept_title" => "You've been invited",
-  "already_accepted" => "This invitation has already been accepted.",
-  "already_member" => "Already a :member",
-  "already_member_body" => "You're already a :member of :system.",
+  "accept_title" => "Has sido invitado",
+  "already_accepted" => "Esta invitación ya ha sido aceptada.",
+  "already_member" => "Ya es un :member",
+  "already_member_body" => "Ya eres :member de :system.",
   "create_account_to_accept" => "Create an account to accept this invitation.",
   "decline_button" => "Decline",
   "description" => "Invite people to join your system.",
@@ -48,6 +48,6 @@ return[
   "resend_invite" => "Resend",
   "send_invite" => "Send invitation",
   "sign_in_to_accept" => "Sign in to accept this invitation.",
-  "wrong_account" => "Wrong Account",
-  "wrong_account_body" => "This invitation was sent to :invited, but you're signed in as :current. Sign in with the invited address to accept."
+  "wrong_account" => "Cuenta equivocada",
+  "wrong_account_body" => "Esta invitación se envió a :invited, pero has iniciado sesión como :current. Inicia sesión con la cuenta invitada para aceptarla."
 ];

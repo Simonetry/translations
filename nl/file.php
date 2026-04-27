@@ -10,7 +10,7 @@ return[
   "alpha_message" => "Houd rekening met bugs en ontbrekende functies.",
   "api_tokens" => "API-tokens",
   "appearance" => "Weergave",
-  "authorized_apps" => "Authorized apps",
+  "authorized_apps" => "Geautoriseerde apps",
   "banner_dismiss" => "Dismiss",
   "banner_view_announcement" => "View announcement",
   "chat" => "Chat",

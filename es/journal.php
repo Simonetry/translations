@@ -1,8 +1,8 @@
 <?php
 
 return[
-  "back_to_entry" => "Back to Entry",
-  "back_to_journal" => "Back to Journal",
+  "back_to_entry" => "Volver al registro",
+  "back_to_journal" => "Volver al diario",
   "content" => "Content",
   "content_placeholder" => "Write your entry here… Markdown is supported.",
   "created" => "Journal entry created.",
@@ -11,7 +11,7 @@ return[
   "deleted" => "Journal entry deleted.",
   "edit_entry" => "Edit Entry",
   "edit_entry_subtitle_prefix" => "Written",
-  "encrypted_notice" => "Las entradas del diario estan encriptadas y solo pueden ser leidas por tu sistema.",
+  "encrypted_notice" => "Los registros del diario están encriptados y solo pueden ser leídos por tu sistema.",
   "index_subtitle" => "Your :system's entries",
   "markdown_supported" => "Markdown supported",
   "new_entry" => "New Entry",
@@ -26,7 +26,7 @@ return[
   "tag_members_label" => "Tag :members",
   "title" => "Title",
   "title_placeholder" => "Give this entry a title…",
-  "untitled_entry" => "(Untitled entry)",
-  "updated" => "Journal entry updated.",
-  "visibility_description" => "Minimum role required to see this entry."
+  "untitled_entry" => "(Entrada sin título)",
+  "updated" => "Registro del diario actualizado.",
+  "visibility_description" => "Se requiere un rol mínimo para ver este registro."
 ];

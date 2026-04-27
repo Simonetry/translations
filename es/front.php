@@ -1,8 +1,8 @@
 <?php
 
 return[
-  "changed_front_type" => "changed from :old to :new.",
-  "co_con" => "Co-con",
+  "changed_front_type" => "cambiado de :old a :new.",
+  "co_con" => "Co-consciente",
   "co_fronting" => "Co-fronting",
   "comment" => "Comentario",
   "current" => "Currently fronting",
@@ -26,5 +26,5 @@ return[
   "started_at" => "Empezado en",
   "started_fronting" => "ahora está en el frente.",
   "stopped_fronting" => "has left front.",
-  "update_fronting" => "Update :fronting"
+  "update_fronting" => "Actualizar :fronting"
 ];

@@ -19,5 +19,5 @@ return[
   "report_submit" => "Submit report",
   "report_submitted" => "Thanks — your report has been submitted.",
   "report_title" => "Report this profile",
-  "view_profile" => "View profile"
+  "view_profile" => "Ver perfil"
 ];

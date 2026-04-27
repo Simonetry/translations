@@ -1,13 +1,13 @@
 <?php
 
 return[
-  "avg_per_week" => "Avg Per Week",
-  "busiest_chat_day" => "Busiest Chat Day",
-  "chat_messages_label" => "chat messages",
-  "communication" => "Communication",
-  "community_growth" => "Community Growth",
-  "computing_body" => "Crunching the numbers — this will be ready in just a moment.",
-  "computing_title" => "Computing Your Wrap...",
+  "avg_per_week" => "Promedio por semana",
+  "busiest_chat_day" => "Día de mayor actividad en el chat",
+  "chat_messages_label" => "mensajes del chat",
+  "communication" => "Comunicación",
+  "community_growth" => "Crecimiento de la comunidad",
+  "computing_body" => "Analizando las cifras — estará listo en un momento.",
+  "computing_title" => "Calculando tu Resumen...",
   "copy_share_link" => "Copy share link",
   "description" => "A look back at your system's year on PluralSpace.",
   "end" => "End",
@@ -58,6 +58,6 @@ return[
   "top_fronters" => "Top Fronters",
   "total_fronts" => "total fronts",
   "try_different_period" => "Try viewing a different time period.",
-  "who_showed_up_most" => "Who showed up the most",
-  "year_subtitle" => "PluralSpace Wrapped :year"
+  "who_showed_up_most" => "Quién fue el que más estuvo presente",
+  "year_subtitle" => "Resumen de actividad de PluralSpace :year"
 ];

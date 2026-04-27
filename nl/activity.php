@@ -3,8 +3,8 @@
 return[
   "all_actions" => "Alle acties",
   "all_members" => "Alle :members",
-  "all_types" => "All types",
-  "as_member" => "as :member",
+  "all_types" => "Alle soorten",
+  "as_member" => "als :member",
   "by_member_suffix" => "by :name",
   "by_system" => "by the system",
   "by_user" => "by :user",

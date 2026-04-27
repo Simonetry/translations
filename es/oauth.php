@@ -1,11 +1,11 @@
 <?php
 
 return[
-  "authorize" => "Authorize",
-  "authorize_subtitle" => "This application is requesting access to your PluralSpace account.",
-  "authorize_title" => "Authorize :app",
-  "authorized_apps_description" => "Apps you have granted access to your PluralSpace account.",
-  "authorized_on" => "Authorized :date",
+  "authorize" => "Autorizar",
+  "authorize_subtitle" => "Esta aplicación solicita acceso a tu cuenta de PluralSpace.",
+  "authorize_title" => "Autorizar :app",
+  "authorized_apps_description" => "Aplicaciones a las que has otorgado acceso a tu cuenta de PluralSpace.",
+  "authorized_on" => "Autorizado :date",
   "deny" => "Deny",
   "error_default" => "Something went wrong with the authorization request. Please try again from the application.",
   "error_title" => "Something went wrong",

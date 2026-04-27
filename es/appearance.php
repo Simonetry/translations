@@ -1,31 +1,31 @@
 <?php
 
 return[
-  "dark" => "Dark",
+  "dark" => "Oscuro",
   "light" => "Claro",
-  "system" => "System",
-  "theme" => "Theme",
+  "system" => "Sistema",
+  "theme" => "Tema",
   "themes" => [
     "dark" => [
-      "description" => "Deep purple darkness",
+      "description" => "Morado muy oscuro",
       "label" => "Oscuro"
     ],
     "dim" => [
-      "description" => "Softer dark tones (WIP)",
-      "label" => "Dim"
+      "description" => "Tonos oscuros suaves (en desarrollo)",
+      "label" => "Grisáceo"
     ],
     "light" => [
-      "description" => "Clean and bright",
+      "description" => "Limpio y brillante",
       "label" => "Claro"
     ],
     "paper" => [
-      "description" => "Warm parchment feel (WIP)",
-      "label" => "Paper"
+      "description" => "Sensación cálida de pergamino (en desarrollo)",
+      "label" => "Papel"
     ],
     "system" => [
-      "description" => "Follows your device",
-      "label" => "System"
+      "description" => "Sigue a tu dispositivo",
+      "label" => "Sistema"
     ]
   ],
-  "title" => "Appearance"
+  "title" => "Apariencia"
 ];

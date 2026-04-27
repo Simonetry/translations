@@ -15,9 +15,9 @@ return[
   "attributes" => [
     "coConMemberIds" => "co-conscious members",
     "email" => "e-mailadres",
-    "frontComment" => "front comment",
+    "frontComment" => "front opmerking",
     "inviteEmail" => "uitnodigingsmail",
-    "inviteRole" => "invite role",
+    "inviteRole" => "rol uitnodigen",
     "selectedMemberIds" => "geselecteerde leden"
   ],
   "before" => "The :attribute field must be a date before :date.",

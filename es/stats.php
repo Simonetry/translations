@@ -1,13 +1,13 @@
 <?php
 
 return[
-  "active_archived" => ":active active · :archived archived",
-  "active_channels" => "Active Channels",
-  "average_duration" => "Average Duration",
-  "average_front_length" => "Average front length",
-  "avg_votes_per_poll" => "Avg Votes / Poll",
-  "chat_activity" => "Chat Activity",
-  "completed_in_range" => "Completed in range",
+  "active_archived" => ":active activo · :archived archivado",
+  "active_channels" => "Canales activos",
+  "average_duration" => "Duración Promedio",
+  "average_front_length" => "Longitud promedio del frente",
+  "avg_votes_per_poll" => "Votos / encuesta promedio",
+  "chat_activity" => "Actividad del chat",
+  "completed_in_range" => "Completado dentro del plazo",
   "description" => "Insights into your system's activity over time.",
   "entries_in_range" => "Entries in range",
   "front_changes" => ":front Changes",
@@ -55,11 +55,11 @@ return[
   "time_spent_fronting" => "Time spent :fronting",
   "top_channels" => "Top channels",
   "total_fronts_label" => "Total :fronts",
-  "total_journal_entries" => "Journal entries",
+  "total_journal_entries" => "Registros del diario",
   "total_polls" => "Total Polls",
   "total_time" => "Total Time",
   "unique_voters" => "Unique Voters",
-  "view_your_wrapped" => "View your Wrapped",
-  "votes_cast" => "Votes Cast",
-  "winner_of" => "Winner of \":title\""
+  "view_your_wrapped" => "Ver tu Resumen de actividad",
+  "votes_cast" => "Votos emitidos",
+  "winner_of" => "Ganador de \":title\""
 ];

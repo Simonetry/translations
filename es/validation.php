@@ -14,11 +14,11 @@ return[
   "ascii" => "El campo :attribute solo debe contener caracteres alfanuméricos y símbolos de un solo byte.",
   "attributes" => [
     "coConMemberIds" => "miembros co-frente",
-    "email" => "email address",
-    "frontComment" => "front comment",
-    "inviteEmail" => "invite email",
-    "inviteRole" => "invite role",
-    "selectedMemberIds" => "selected members"
+    "email" => "dirección de correo electrónico",
+    "frontComment" => "comentario del frente",
+    "inviteEmail" => "correo de invitación",
+    "inviteRole" => "rol de invitación",
+    "selectedMemberIds" => "miembros seleccionados"
   ],
   "before" => "El campo :attribute debe ser una fecha anterior a :date.",
   "before_or_equal" => "El campo :attribute debe ser una fecha anterior o igual a :date.",

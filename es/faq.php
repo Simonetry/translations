@@ -12,5 +12,5 @@ return[
   "search_placeholder" => "Search FAQs…",
   "still_need_help" => "Still need help?",
   "title" => "Frequently asked questions",
-  "visit_help_center" => "Visit the Help Center"
+  "visit_help_center" => "Visita el Centro de ayuda"
 ];

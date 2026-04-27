@@ -1,9 +1,9 @@
 <?php
 
 return[
-  "all_notes" => "All notes",
-  "back_to_note" => "Back to Note",
-  "back_to_notes" => "Back to Notes",
+  "all_notes" => "Todas las notas",
+  "back_to_note" => "Volver a la Nota",
+  "back_to_notes" => "Volver a Notas",
   "content_placeholder" => "Write your note here… Markdown is supported.",
   "create_note" => "New note",
   "created" => "Note created.",
@@ -39,8 +39,8 @@ return[
   "tag_member_label" => "Tag a :member",
   "this_note" => "this note",
   "title_placeholder" => "Give this note a title…",
-  "unpinned_flash" => "Note unpinned.",
-  "untitled_note" => "Untitled note",
-  "updated" => "Note updated.",
-  "visibility_description" => "Minimum role required to see this note."
+  "unpinned_flash" => "Nota desanclada.",
+  "untitled_note" => "Nota sin título",
+  "updated" => "Nota actualizada.",
+  "visibility_description" => "Se requiere un rol mínimo para ver esta nota."
 ];

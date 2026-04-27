@@ -1,18 +1,18 @@
 <?php
 
 return[
-  "account_menu" => "Account menu",
-  "active_sessions" => "Active sessions",
+  "account_menu" => "Menú de la cuenta",
+  "active_sessions" => "Sesiones activas",
   "activity" => "Actividad",
-  "admin" => "Admin",
-  "alpha_feedback" => "Share feedback on Discord",
-  "alpha_label" => "Alpha",
-  "alpha_message" => "Expect bugs and missing features.",
-  "api_tokens" => "API tokens",
-  "appearance" => "Appearance",
-  "authorized_apps" => "Authorized apps",
-  "banner_dismiss" => "Dismiss",
-  "banner_view_announcement" => "View announcement",
+  "admin" => "Administrador",
+  "alpha_feedback" => "Comparte tus opiniones en Discord.",
+  "alpha_label" => "Alfa",
+  "alpha_message" => "Es posible que haya errores y que falten algunas funciones.",
+  "api_tokens" => "Tokens de la API",
+  "appearance" => "Apariencia",
+  "authorized_apps" => "Aplicaciones autorizadas",
+  "banner_dismiss" => "Descartar",
+  "banner_view_announcement" => "Ver anuncio",
   "chat" => "Chat",
   "connections" => "Connections",
   "create_new_system" => "Create new :system",
@@ -78,6 +78,6 @@ return[
   "two_factor" => "Two-factor authentication",
   "two_factor_short" => "Two-factor auth",
   "types_suffix" => "Types",
-  "users" => "Users",
-  "wrapped" => "Wrapped"
+  "users" => "Usuarios",
+  "wrapped" => "Resumen de actividad"
 ];
