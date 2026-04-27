@@ -128,7 +128,7 @@ return [
     'appearance_subheading' => 'Update the appearance settings for your account',
     'appearance_sr_heading' => 'Appearance settings',
     'appearance_wip_title' => 'Work in Progress',
-    'appearance_wip_line1' => 'The appearance settings are still a work in progress. You make experience some issues or strange colors.',
+    'appearance_wip_line1' => 'The appearance settings are still a work in progress. You may experience some issues or strange colors.',
     'appearance_wip_line2' => 'We are actively working on improving this feature and we appreciate your patience and understanding.',
 
     // Systems (multi-system management)
