@@ -54,6 +54,7 @@ return [
     'you_suffix' => '(you)',
     'remove_user_confirm' => 'Remove :name from this :system?',
     'pending_count' => ':count pending',
+    'pending_invitations' => 'Pending Invitations',
     'invited_by_expires' => 'Invited by :inviter · expires',
     'cancel_invitation_confirm' => 'Cancel this invitation for :email?',
     'invite_email_label' => 'Email address or Friend Code',
