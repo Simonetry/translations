@@ -1,7 +1,6 @@
 <?php
 
 return [
-    'title' => 'Appearance',
     'theme' => 'Theme',
 
     // Theme labels

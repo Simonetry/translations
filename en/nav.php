@@ -1,0 +1,97 @@
+<?php
+
+return [
+    'dashboard' => 'Dashboard',
+    'home' => 'Home',
+    'home_base' => 'Home Base',
+    'members' => 'Members',
+    'system_map' => ':system map',
+    'journal' => 'Journal',
+    'polls' => 'Polls',
+    'chat' => 'Chat',
+    'stats' => 'Stats',
+    'system_insights' => ':system insights',
+    'wrapped' => 'Wrapped',
+    'activity' => 'Activity',
+    'notifications' => 'Notifications',
+    'invitations' => 'Invitations',
+    'help_center' => 'Help Center',
+    'knowledge_base' => 'Knowledge Base',
+    'faq' => 'FAQ',
+    'feedback' => 'Send feedback',
+    'developer' => 'Developer',
+    'admin' => 'Admin',
+    'more' => 'More',
+    'platform' => 'Platform',
+    'repository' => 'Repository',
+    'documentation' => 'Documentation',
+
+    // Settings sub-nav
+    'settings_subheading' => 'Manage your profile and account settings',
+    'appearance' => 'Appearance',
+    'two_factor' => 'Two-factor authentication',
+    'two_factor_short' => 'Two-factor auth',
+    'sessions' => 'Browser sessions',
+    'active_sessions' => 'Active sessions',
+    'connections' => 'Connections',
+    'authorized_apps' => 'Authorized apps',
+    'api_tokens' => 'API tokens',
+    'notification_settings' => 'Notification preferences',
+    'systems' => 'Systems',
+    'systems_label_dynamic' => ':systems',
+    'delete_account' => 'Delete account',
+
+    // System area sub-nav (use placeholders so word order can change per locale)
+    'system_settings' => ':system settings',
+    'manage_system_subheading' => 'Manage your :system configuration',
+    'general' => 'General',
+    'permissions' => 'Permissions',
+    'public_profile' => 'Public profile',
+    'users' => 'Users',
+    'terminology' => 'Terminology',
+    'custom_fields' => 'Custom fields',
+    'front_types' => ':front types',
+    'member_groups' => ':member groups',
+    'relationship_types' => 'Relationship types',
+    'profile_settings' => 'Profile settings',
+    'data_export' => 'Data export',
+    'imports' => 'Imports',
+    'import' => 'Import',
+    'sp_api_sync' => 'Simply Plural sync',
+
+    // Account / user menu
+    'switch_system' => 'Switch :system',
+    'create_system' => 'Create :system',
+    'create_new_system' => 'Create new :system',
+    'create_system_lower' => 'Create a new :system',
+    'create_system_intro' => 'Give your new :system a name to get started.',
+    'create_system_name_placeholder' => 'e.g. \'The Sunrise Collective\'',
+    'create_system_name_label' => ':system name',
+    'search_systems_placeholder' => 'Search :systems…',
+    'no_systems_found' => 'No :systems found.',
+    'no_systems_yet' => 'No :systems yet',
+    'select_member_placeholder' => 'Select :member…',
+    'join_system' => 'Join a :system',
+    'account_menu' => 'Account menu',
+    'open_main_menu' => 'Open main menu',
+    'open_user_menu' => 'Open user menu',
+    'toggle_sidebar' => 'Toggle sidebar',
+
+    // Skip links / accessibility
+    'skip_to_content' => 'Skip to main content',
+
+    // Header tooltips / search
+    'banner_dismiss' => 'Dismiss',
+    'banner_view_announcement' => 'View announcement',
+    'alpha_label' => 'Alpha',
+    'alpha_message' => 'Expect bugs and missing features.',
+    'alpha_feedback' => 'Share feedback on Discord',
+
+    // Appearance toggle aria
+    'switch_to_light' => 'Switch to light mode',
+    'switch_to_dark' => 'Switch to dark mode',
+
+    // System settings sub-nav extras
+    'types_suffix' => 'Types',
+    'groups_suffix' => 'Groups',
+];
