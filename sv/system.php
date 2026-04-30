@@ -330,3 +330,7 @@ return [
   "view_members" => "Visa :members",
   "visibility" => "Synlighet",
   "visibility_min_role_description" => "Minsta roll som krävs för att se detta fält på :member-profiler.",
+  "what_we_found" => "What we found",
+  "you_suffix" => "(you)",
+  "your_profile_url" => "Your profile URL"
+];
