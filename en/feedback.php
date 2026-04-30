@@ -13,7 +13,7 @@ return [
     ],
 
     'footer' => [
-        'tagline' => 'PluralSpace Feedback · in alpha · made with care',
+        'tagline' => 'A cozy, safe home for your system.',
         'privacy' => 'Privacy',
         'discord' => 'Discord',
         'code_of_conduct' => 'Code of conduct',
@@ -144,7 +144,7 @@ return [
         'badge_new' => 'New',
         'badge_fix' => 'Fix',
         'empty_title' => 'No releases yet',
-        'empty_description' => 'Once the team starts shipping, release notes will land here.',
+        'empty_description' => 'Once the first changelog is posted, it will be here.',
     ],
 
 ];
