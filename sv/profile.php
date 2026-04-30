@@ -1,23 +1,23 @@
 <?php
 
-return[
-  "about" => "About",
-  "edit_profile" => "Edit profile",
-  "layout_bold" => "Bold",
-  "layout_card_grid" => "Card grid",
-  "layout_classic" => "Classic",
+return [
+  "about" => "Om",
+  "edit_profile" => "Redigera profil",
+  "layout_bold" => "Fet",
+  "layout_card_grid" => "Kortrutnät",
+  "layout_classic" => "Klassisk",
   "layout_minimal" => "Minimal",
-  "profile_friends_only_body" => "Sign in to view this profile.",
-  "profile_friends_only_title" => "Friends only",
-  "profile_hidden_body" => "We couldn't find a profile here.",
-  "profile_hidden_title" => "Profile not found",
-  "profile_private_body" => "The owner has chosen not to share this profile publicly.",
-  "profile_private_title" => "This profile is private",
-  "profile_url" => "Profile URL",
-  "report_details" => "Additional details",
-  "report_reason" => "What's the issue?",
-  "report_submit" => "Submit report",
-  "report_submitted" => "Thanks — your report has been submitted.",
-  "report_title" => "Report this profile",
-  "view_profile" => "View profile"
+  "profile_friends_only_body" => "Logga in för att se denna profil.",
+  "profile_friends_only_title" => "Endast vänner",
+  "profile_hidden_body" => "Vi kunde inte hitta någon profil här.",
+  "profile_hidden_title" => "Profilen hittades inte",
+  "profile_private_body" => "Ägaren har valt att inte dela denna profil offentligt.",
+  "profile_private_title" => "Denna profil är privat",
+  "profile_url" => "Profilens webbadress",
+  "report_details" => "Ytterligare detaljer",
+  "report_reason" => "Vad är problemet?",
+  "report_submit" => "Skicka rapport",
+  "report_submitted" => "Tack — din rapport har skickats in.",
+  "report_title" => "Rapportera denna profil",
+  "view_profile" => "Visa profil"
 ];

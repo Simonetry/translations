@@ -1,46 +1,55 @@
 <?php
 
-return[
-  "all_notes" => "All notes",
-  "back_to_note" => "Back to Note",
-  "back_to_notes" => "Back to Notes",
-  "content_placeholder" => "Write your note here… Markdown is supported.",
-  "create_note" => "New note",
-  "created" => "Note created.",
-  "created_by" => "Created by :name",
-  "delete_confirm" => "Delete this note? This cannot be undone.",
-  "delete_note" => "Delete note",
-  "delete_note_button" => "Delete Note",
-  "delete_note_confirm_html" => "This will delete :title. This action cannot be undone.",
-  "delete_note_modal_heading" => "Delete Note?",
-  "deleted" => "Note deleted.",
-  "description" => "Shared notes for your system.",
-  "edit_note" => "Edit note",
-  "edit_note_subtitle_prefix" => "Created",
-  "edit_note_title" => "Edit Note",
-  "index_subtitle" => "Your :system's notes",
-  "last_edited_by" => "Last edited by :name",
-  "new_note" => "New Note",
-  "no_member_option" => "No :member",
-  "no_member_tagged" => "No :member tagged",
-  "no_notes" => "No notes yet.",
-  "no_notes_found" => "No notes found",
-  "no_notes_hint" => "Notes are a place for your system to keep shared thoughts, reminders, and ideas.",
-  "no_notes_hint_index" => "Notes will appear here once created.",
-  "no_notes_search_hint" => "Try adjusting your search.",
-  "no_notes_yet_short" => "No notes yet",
-  "note_content_placeholder" => "Write your note…",
-  "note_pin" => "Pin to top",
-  "note_title_placeholder" => "Title…",
-  "pinned_flash" => "Note pinned.",
-  "save_note" => "Save Note",
-  "search_notes_placeholder" => "Search notes…",
-  "singular" => "Note",
-  "tag_member_label" => "Tag a :member",
-  "this_note" => "this note",
-  "title_placeholder" => "Give this note a title…",
-  "unpinned_flash" => "Note unpinned.",
-  "untitled_note" => "Untitled note",
-  "updated" => "Note updated.",
-  "visibility_description" => "Minimum role required to see this note."
+return [
+    'description' => 'Delade anteckningar för ditt system.',
+    'singular' => 'Anteckning',
+    'all_notes' => 'Alla anteckningar',
+    'create_note' => 'Ny anteckning',
+    'no_notes' => 'Inga anteckningar än.',
+    'no_notes_hint' => 'Anteckningar är en plats där ditt system kan spara delade tankar, påminnelser och idéer.',
+
+    // Form
+    'note_title_placeholder' => 'Titel…',
+    'note_content_placeholder' => 'Skriv din anteckning…',
+    'note_pin' => 'Fäst längst upp',
+
+    // Actions
+    'edit_note' => 'Redigera anteckning',
+    'delete_note' => 'Ta bort anteckning',
+    'delete_confirm' => 'Vill du ta bort anteckningen? Detta kan inte ångras.',
+
+    // Flash
+    'created' => 'Anteckning skapad.',
+    'updated' => 'Anteckning uppdaterad.',
+    'deleted' => 'Anteckning borttagen.',
+    'pinned_flash' => 'Anteckning fäst.',
+    'unpinned_flash' => 'Anteckning lossad.',
+
+    // Show
+    'last_edited_by' => 'Senast redigerad av :name',
+    'created_by' => 'Skapad av :name',
+
+    // Index page
+    'index_subtitle' => 'Ditt :systems anteckningar',
+    'save_note' => 'Spara anteckning',
+    'search_notes_placeholder' => 'Sök anteckningar…',
+    'untitled_note' => 'Namnlös anteckning',
+    'no_notes_found' => 'Inga anteckningar hittades',
+    'no_notes_yet_short' => 'Inga anteckningar än',
+    'no_notes_hint_index' => 'Anteckningar kommer att visas här när de har skapats.',
+    'no_notes_search_hint' => 'Prova att ändra din sökning.',
+    'back_to_notes' => 'Tillbaka till anteckningar',
+    'back_to_note' => 'Tillbaka till anteckning',
+    'edit_note_subtitle_prefix' => 'Skapad',
+    'title_placeholder' => 'Ge anteckningen en titel…',
+    'content_placeholder' => 'Skriv din anteckning här… Markdown stöds.',
+    'tag_member_label' => 'Tagga en :member',
+    'no_member_tagged' => 'Ingen :member taggad',
+    'no_member_option' => 'Ingen :member',
+    'visibility_description' => 'Minsta roll som krävs för att se denna anteckning.',
+
+    // Show
+    'delete_note_modal_heading' => 'Ta bort anteckning?',
+    'delete_note_confirm_html' => 'Detta kommer att ta bort :title. Denna åtgärd kan inte ångras.',
+    'this_note' => 'denna anteckning',
 ];

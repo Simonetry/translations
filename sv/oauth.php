@@ -1,19 +1,19 @@
 <?php
 
-return[
-  "authorize" => "Authorize",
-  "authorize_subtitle" => "This application is requesting access to your PluralSpace account.",
-  "authorize_title" => "Authorize :app",
-  "authorized_apps_description" => "Apps you have granted access to your PluralSpace account.",
-  "authorized_on" => "Authorized :date",
-  "deny" => "Deny",
-  "error_default" => "Something went wrong with the authorization request. Please try again from the application.",
-  "error_title" => "Something went wrong",
-  "last_used" => "Last used :date",
-  "logged_in_as" => "Logged in as",
-  "no_authorized_apps" => "You have not authorized any apps yet.",
-  "requested_permissions" => "This application will be able to:",
-  "revoke_access" => "Revoke access",
-  "revoke_confirm_description" => "This app will no longer be able to access your account. You can reauthorize it at any time.",
-  "revoke_confirm_title" => "Revoke access for :app?"
+return [
+  "authorize" => "Auktorisera",
+  "authorize_subtitle" => "Denna applikation begär åtkomst till ditt PluralSpace-konto.",
+  "authorize_title" => "Auktorisera :app",
+  "authorized_apps_description" => "Appar som du har gett åtkomst till ditt PluralSpace-konto.",
+  "authorized_on" => "Auktoriserad :date",
+  "deny" => "Neka",
+  "error_default" => "Något gick fel med auktoriseringsbegäran. Vänligen försök igen från applikationen.",
+  "error_title" => "Något gick fel",
+  "last_used" => "Senast använd :date",
+  "logged_in_as" => "Inloggad som",
+  "no_authorized_apps" => "Du har inte auktoriserat några appar än.",
+  "requested_permissions" => "Denna applikation kommer att kunna:",
+  "revoke_access" => "Återkalla åtkomst",
+  "revoke_confirm_description" => "Denna app kommer inte längre att kunna komma åt ditt konto. Du kan auktorisera den igen när som helst.",
+  "revoke_confirm_title" => "Återkalla åtkomst för :app?"
 ];
