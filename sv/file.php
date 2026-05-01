@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "account_menu" => "Kontomeny",
   "active_sessions" => "Aktiva sessioner",
   "activity" => "Aktivitet",

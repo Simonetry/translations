@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "add_option" => "Lägg till alternativ",
   "all_statuses" => "Alla statusar",
   "allow_multiple_votes" => "Tillåt flera röster per :member",

@@ -15,7 +15,7 @@ return[
   "attr_group_name" => "Groepsnaam",
   "attr_parent_group" => "Bovenliggende groep",
   "attr_related_member" => "Related member",
-  "attr_relationship_type" => "Relationship type",
+  "attr_relationship_type" => "Relatietype",
   "auto_save_off" => "Auto-save off",
   "auto_save_on" => "Auto-save on",
   "avatar_preview_alt" => "Avatar preview",

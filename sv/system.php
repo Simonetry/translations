@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "about_data_export" => "Om din dataexport",
   "accent_color" => "Accentfärg",
   "access_revoked_heading" => "Åtkomst till offentlig profil återkallad",

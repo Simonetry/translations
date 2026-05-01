@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "access_revoked" => "Åtkomst återkallad.",
   "all_other_devices_signed_out" => "Alla andra enheter har loggats ut.",
   "api_tokens_description" => "Skapa personliga åtkomst-tokens för att autentisera API-anrop.",

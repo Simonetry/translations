@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "actions" => "Åtgärder",
   "add" => "Lägg till",
   "all" => "Alla",

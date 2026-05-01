@@ -10,7 +10,7 @@ return[
   "already_accepted" => "Esta invitación ya ha sido aceptada.",
   "already_member" => "Ya es un :member",
   "already_member_body" => "Ya eres :member de :system.",
-  "create_account_to_accept" => "Create an account to accept this invitation.",
+  "create_account_to_accept" => "Crea una cuenta para aceptar esta invitación.",
   "decline_button" => "Decline",
   "description" => "Invite people to join your system.",
   "expired_body" => "This invitation expired :time. Ask :name to send a new one.",

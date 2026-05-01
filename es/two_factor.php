@@ -3,9 +3,9 @@
 return[
   "authentication_code" => "Código de autenticación",
   "authentication_code_description" => "Introduzca el código de autenticación proporcionado por su aplicación de autenticación.",
-  "confirm_identity_title" => "Confirm your identity",
-  "confirm_password_description" => "This is a secure area of the application. Please confirm your password before continuing.",
-  "copy_codes" => "Copy codes",
+  "confirm_identity_title" => "Confirme su identidad",
+  "confirm_password_description" => "Esta es una zona protegida de la aplicación. Por favor, confirme su contraseña antes de continuar.",
+  "copy_codes" => "Copiar códigos",
   "description" => "Add extra security to your account with two-factor authentication.",
   "disable_2fa" => "Disable 2FA",
   "disabled_intro" => "When you enable two-factor authentication, you will be prompted for a secure pin during login. This pin can be retrieved from a TOTP-supported application on your phone.",

@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "back_to_entry" => "Tillbaka till inlägget",
   "back_to_journal" => "Tillbaka till journalen",
   "content" => "Innehåll",

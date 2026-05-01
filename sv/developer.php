@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "active_tokens" => "Aktiva tokens",
   "api_docs_link" => "API-dokumentation",
   "api_docs_subtitle" => "Referens för PluralSpace REST API",

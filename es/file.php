@@ -14,7 +14,7 @@ return[
   "banner_dismiss" => "Descartar",
   "banner_view_announcement" => "Ver anuncio",
   "chat" => "Chat",
-  "connections" => "Connections",
+  "connections" => "Conexiones",
   "create_new_system" => "Create new :system",
   "create_system" => "Create :system",
   "create_system_intro" => "Give your new :system a name to get started.",

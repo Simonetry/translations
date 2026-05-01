@@ -11,7 +11,7 @@ return[
   "atmosphere_with_active_count_other" => ":count :members están activos.",
   "changed_your_mind" => "¿Ha cambiado de opinión?",
   "click_to_cycle" => "Haga clic para cambiar el tipo de frente",
-  "create_a_system" => "Create a :system",
+  "create_a_system" => "Crear un :system",
   "create_poll" => "Create a poll",
   "create_poll_for_opinions" => "Create a poll to get :system opinions.",
   "current_atmosphere" => "✦ ─ CURRENT ATMOSPHERE",

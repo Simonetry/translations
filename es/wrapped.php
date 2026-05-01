@@ -8,7 +8,7 @@ return[
   "community_growth" => "Crecimiento de la comunidad",
   "computing_body" => "Analizando las cifras — estará listo en un momento.",
   "computing_title" => "Calculando tu Resumen...",
-  "copy_share_link" => "Copy share link",
+  "copy_share_link" => "Copiar enlace para compartir",
   "description" => "A look back at your system's year on PluralSpace.",
   "end" => "End",
   "front_changes" => "Front Changes",

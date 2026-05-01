@@ -2,7 +2,7 @@
 
 return[
   "agree_to_the" => "Ik ga akkoord met de",
-  "are_you_a_system" => "Are you a system?",
+  "are_you_a_system" => "Ben je een systeem?",
   "continue_agreement_prefix" => "By continuing, you agree to our",
   "continue_agreement_privacy" => "Privacy Policy",
   "continue_agreement_terms" => "Terms",

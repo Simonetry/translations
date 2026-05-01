@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "avg_per_week" => "Snitt per vecka",
   "busiest_chat_day" => "Mest aktiva chattdag",
   "chat_messages_label" => "chattmeddelanden",

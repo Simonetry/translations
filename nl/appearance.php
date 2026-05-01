@@ -15,7 +15,7 @@ return[
       "label" => "Dim"
     ],
     "light" => [
-      "description" => "Clean and bright",
+      "description" => "Schoon en helder",
       "label" => "Licht"
     ],
     "paper" => [

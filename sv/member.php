@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "add_another" => "Lägg till en till",
   "add_first_member_hint" => "Lägg till din första :system :member för att komma igång.",
   "add_member" => "Lägg till :member",
@@ -122,7 +122,7 @@ return [
   "template_label" => "Markera denna :member som en mall",
   "templates_heading" => "Mallar",
   "templates_intro" => "Börja med ett förifyllt formulär för att snabbt skapa vanliga typer av :members.",
-  "templates_overwrite_overwrite_confirm" => "Detta kommer att skriva över all information du redan har fyllt i. Är du säker?",
+  "templates_overwrite_confirm" => "This will overwrite any information you have already entered. Are you sure?",
   "unarchived" => "Medlem återställd från arkiv.",
   "unpin_action" => "Sluta fäst",
   "update_fronting" => "Uppdatera :fronting",

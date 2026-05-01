@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "accept_been_invited" => "Du har blivit inbjuden",
   "accept_button" => "Acceptera inbjudan",
   "accept_button_short" => "Acceptera inbjudan",

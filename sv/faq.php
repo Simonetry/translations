@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "contact_support" => "Kontakta support",
   "description" => "Snabba svar på vanliga frågor om PluralSpace.",
   "hero_badge" => "Vanliga frågor",

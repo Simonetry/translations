@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "agree_to_the" => "Jag godkänner",
   "are_you_a_system" => "Är ni ett system?",
   "continue_agreement_prefix" => "Genom att fortsätta godkänner du våra",

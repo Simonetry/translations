@@ -1,0 +1,30 @@
+<?php
+
+return[
+  "changed_front_type" => "changed from :old to :new.",
+  "co_con" => "Co-con",
+  "co_fronting" => "Co-fronting",
+  "comment" => "Comment",
+  "current" => "Currently fronting",
+  "default_member_name" => "Someone",
+  "delete_record_title" => "Delete this :front record",
+  "duration" => "Duration",
+  "ended_at" => "Ended at",
+  "front_action" => ":front",
+  "front_member" => ":front :name",
+  "front_type_heading" => ":front Type",
+  "history" => "Front history",
+  "history_heading" => ":front History",
+  "leave_front" => "Leave :front",
+  "log_changed_to" => ":member changed to :type",
+  "log_started_front_for" => ":member started :type",
+  "log_stopped_fronting" => ":member stopped fronting",
+  "none" => "No one is currently fronting.",
+  "note_placeholder" => "Write a note about this :front…",
+  "start_fronting" => "Start :fronting",
+  "started" => "Front started.",
+  "started_at" => "Started at",
+  "started_fronting" => "is now fronting.",
+  "stopped_fronting" => "has left front.",
+  "update_fronting" => "Update :fronting"
+];

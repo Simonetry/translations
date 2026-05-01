@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "cannot_post" => "Du har inte behörighet att skicka meddelanden i den här kanalen.",
   "category_name" => "Kategorinamn",
   "category_name_placeholder" => "t.ex. Allmänt, Team, Projekt...",

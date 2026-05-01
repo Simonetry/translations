@@ -4,7 +4,7 @@ return[
   "all_notes" => "Todas las notas",
   "back_to_note" => "Volver a la Nota",
   "back_to_notes" => "Volver a Notas",
-  "content_placeholder" => "Write your note here… Markdown is supported.",
+  "content_placeholder" => "Escriba su nota aquí… Se admite Markdown.",
   "create_note" => "New note",
   "created" => "Note created.",
   "created_by" => "Created by :name",

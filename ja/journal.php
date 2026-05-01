@@ -1,0 +1,32 @@
+<?php
+
+return[
+  "back_to_entry" => "Back to Entry",
+  "back_to_journal" => "Back to Journal",
+  "content" => "Content",
+  "content_placeholder" => "Write your entry here… Markdown is supported.",
+  "created" => "Journal entry created.",
+  "date_description" => "When this entry is for — defaults to now.",
+  "delete_entry_confirm" => "Delete this journal entry? This cannot be undone.",
+  "deleted" => "Journal entry deleted.",
+  "edit_entry" => "Edit Entry",
+  "edit_entry_subtitle_prefix" => "Written",
+  "encrypted_notice" => "Journal entries are encrypted and can only be read by your system.",
+  "index_subtitle" => "Your :system's entries",
+  "markdown_supported" => "Markdown supported",
+  "new_entry" => "New Entry",
+  "new_entry_subtitle" => "Write something down.",
+  "no_entries_found" => "No entries found",
+  "no_entries_hint" => "Start writing to keep a record of what's happening.",
+  "no_entries_yet" => "No entries yet",
+  "private" => "Private",
+  "save_entry" => "Save Entry",
+  "search_entries_placeholder" => "Search entries…",
+  "shared" => "Shared",
+  "tag_members_label" => "Tag :members",
+  "title" => "Title",
+  "title_placeholder" => "Give this entry a title…",
+  "untitled_entry" => "(Untitled entry)",
+  "updated" => "Journal entry updated.",
+  "visibility_description" => "Minimum role required to see this entry."
+];

@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "about" => "Om",
   "edit_profile" => "Redigera profil",
   "layout_bold" => "Fet",

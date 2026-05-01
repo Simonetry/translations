@@ -1,7 +1,7 @@
 <?php
 
 return[
-  "contact_support" => "Contact support",
+  "contact_support" => "Contacta con soporte",
   "description" => "Quick answers to common questions about PluralSpace.",
   "hero_badge" => "Frequently Asked Questions",
   "hero_subtitle" => "Everything you need to know about PluralSpace — how it works, who it's for, and what makes it different.",

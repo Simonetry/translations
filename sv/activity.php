@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "all_actions" => "Alla händelser",
   "all_members" => "Alla :members",
   "all_types" => "Alla typer",

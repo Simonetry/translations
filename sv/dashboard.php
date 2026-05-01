@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "add_member" => "Lägg till en medlem",
   "add_members_label" => "Lägg till :members",
   "and_others" => ":count andra",

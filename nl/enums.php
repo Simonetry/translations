@@ -23,7 +23,7 @@ return[
     "small" => "Klein"
   ],
   "custom_field_type" => [
-    "block_editor" => "Block Editor",
+    "block_editor" => "Blok Editor",
     "color" => "Kleur",
     "date" => "Datum",
     "link" => "Link",
@@ -33,7 +33,7 @@ return[
     "textarea" => "Tekstveld"
   ],
   "custom_field_type_description" => [
-    "block_editor" => "An advanced editor for creating rich content with blocks.",
+    "block_editor" => "Een geavanceerde editor voor het creëren van rijke content met blokken.",
     "color" => "Een veld om een kleur te kiezen.",
     "date" => "Een veld voor het selecteren van een datum.",
     "link" => "Een veld voor het invoeren van een URL.",
@@ -114,11 +114,11 @@ return[
     "spacious" => "Spacious"
   ],
   "system_import_status" => [
-    "completed" => "Completed",
-    "completed_with_errors" => "Completed with errors",
-    "failed" => "Failed",
-    "pending" => "Pending",
-    "processing" => "Processing"
+    "completed" => "Voltooid",
+    "completed_with_errors" => "Voltooid met fouten",
+    "failed" => "Mislukt",
+    "pending" => "In behandeling",
+    "processing" => "In verwerking"
   ],
   "system_mood" => [
     "anxious" => "Anxious",
@@ -145,9 +145,9 @@ return[
     "custom-fields.view_description" => "View custom fields on :member profiles",
     "device-tokens.manage" => "Manage device tokens",
     "device-tokens.manage_description" => "Manage device push notification tokens",
-    "front.edit" => "Update :front",
+    "front.edit" => ":front Bijwerken",
     "front.edit_description" => "Log and update who is currently :fronting",
-    "front.view" => "View :front status",
+    "front.view" => ":front status bekijken",
     "front.view_description" => "See who is currently :fronting",
     "journal.edit" => "Write journal",
     "journal.edit_description" => "Create and edit journal entries",
@@ -171,11 +171,11 @@ return[
     "system.manage_description" => "Change :system settings and privacy tiers"
   ],
   "system_user_role" => [
-    "admin" => "Admin",
-    "owner" => "Owner",
+    "admin" => "Beheerder",
+    "owner" => "Eigenaar",
     "partner" => "Partner",
-    "read_only" => "Friend",
-    "trusted" => "Trusted Friend"
+    "read_only" => "Vriend",
+    "trusted" => "Vertrouwde Vriend"
   ],
   "system_visibility" => [
     "friends" => "Alleen vrienden",

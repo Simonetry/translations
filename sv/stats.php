@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "active_archived" => ":active aktiva · :archived arkiverade",
   "active_channels" => "Aktiva kanaler",
   "average_duration" => "Genomsnittlig varaktighet",

@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "all_caught_up" => "Du har läst allt",
   "announcement_title" => "Meddelande",
   "clear_all" => "Rensa alla",

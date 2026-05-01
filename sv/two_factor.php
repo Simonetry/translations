@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "authentication_code" => "Autentiseringskod",
   "authentication_code_description" => "Ange autentiseringskoden från din autentiseringsapp.",
   "confirm_identity_title" => "Bekräfta din identitet",

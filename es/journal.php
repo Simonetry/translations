@@ -3,8 +3,8 @@
 return[
   "back_to_entry" => "Volver al registro",
   "back_to_journal" => "Volver al diario",
-  "content" => "Content",
-  "content_placeholder" => "Write your entry here… Markdown is supported.",
+  "content" => "Contenido",
+  "content_placeholder" => "Escriba su entrada aquí… Se admite Markdown.",
   "created" => "Journal entry created.",
   "date_description" => "When this entry is for — defaults to now.",
   "delete_entry_confirm" => "Delete this journal entry? This cannot be undone.",

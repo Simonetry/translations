@@ -1,6 +1,6 @@
 <?php
 
-return [
+return[
   "authorize" => "Auktorisera",
   "authorize_subtitle" => "Denna applikation begär åtkomst till ditt PluralSpace-konto.",
   "authorize_title" => "Auktorisera :app",
